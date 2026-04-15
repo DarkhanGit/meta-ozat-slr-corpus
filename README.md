@@ -2,7 +2,7 @@
 
 **Title:** Machine Learning and Gamification in Higher Education: A Systematic Literature Review
 **Project:** AP25796141 (Kazakhstan)
-**Authors:** D. Zhaksybayev et al.
+**Authors:** D. Zhaxybayev et al.
 **Target venue:** Scopus Q1/Q2 journal
 
 ---
@@ -93,7 +93,7 @@ See `search_protocol.md` for the full registered protocol.
 
 If you use this dataset or protocol, please cite:
 
-> Zhaksybayev D. et al. (2026). Machine Learning and Gamification in Higher Education: A Systematic Literature Review. [Journal name pending]. DOI: [pending]
+> Zhaxybayev D. et al. (2026). Machine Learning and Gamification in Higher Education: A Systematic Literature Review. [Journal name pending]. DOI: [pending]
 
 ---
 
